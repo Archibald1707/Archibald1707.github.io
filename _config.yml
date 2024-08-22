@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Entries from a newbie in the big world of CTF.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: -
+github_username:  archibald1707
 
 # Build settings
 theme: jekyll-theme-hacker
